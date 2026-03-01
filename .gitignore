@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+
+# Expo / React Native artifacts
+holder-wallet/.expo/
+holder-wallet/.expo-shared/
+holder-wallet/dist/
+holder-wallet/web-build/
+
+# TypeScript build info
+*.tsbuildinfo
